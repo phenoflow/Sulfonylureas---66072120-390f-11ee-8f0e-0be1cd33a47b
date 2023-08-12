@@ -1,0 +1,84 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/sulfonylureas-tolazamide---primary.py
+inputModule3:
+  class: File
+  path: python/sulfonylureas-amaryl---primary.py
+inputModule4:
+  class: File
+  path: python/sulfonylureas-diamicron---primary.py
+inputModule5:
+  class: File
+  path: python/sulfonylureas-tolbutamide---primary.py
+inputModule6:
+  class: File
+  path: python/sulfonylureas-tablet---primary.py
+inputModule7:
+  class: File
+  path: python/sulfonylureas-500mg---primary.py
+inputModule8:
+  class: File
+  path: python/sulfonylureas-chlorpropamide---primary.py
+inputModule9:
+  class: File
+  path: python/sulfonylureas-glibenclamide---primary.py
+inputModule10:
+  class: File
+  path: python/sulfonylureas-euglucon---primary.py
+inputModule11:
+  class: File
+  path: python/sulfonylureas-suspension---primary.py
+inputModule12:
+  class: File
+  path: python/sulfonylureas-calabren---primary.py
+inputModule13:
+  class: File
+  path: python/sulfonylureas-gliclazide---primary.py
+inputModule14:
+  class: File
+  path: python/sulfonylureas-minodiab---primary.py
+inputModule15:
+  class: File
+  path: python/sulfonylureas-tolanase---primary.py
+inputModule16:
+  class: File
+  path: python/sulfonylureas-diabetamide---primary.py
+inputModule17:
+  class: File
+  path: python/sulfonylureas-libanil---primary.py
+inputModule18:
+  class: File
+  path: python/sulfonylureas-250mg---primary.py
+inputModule19:
+  class: File
+  path: python/sulfonylureas-malix---primary.py
+inputModule20:
+  class: File
+  path: python/sulfonylureas-glipizide---primary.py
+inputModule21:
+  class: File
+  path: python/sulfonylureas-rosiglitazone---primary.py
+inputModule22:
+  class: File
+  path: python/sulfonylureas-glimepiride---primary.py
+inputModule23:
+  class: File
+  path: python/sulfonylureas-nazdol---primary.py
+inputModule24:
+  class: File
+  path: python/sulfonylureas-modifiedrelease---primary.py
+inputModule25:
+  class: File
+  path: python/sulfonylureas-daonil---primary.py
+inputModule26:
+  class: File
+  path: python/sulfonylureas-diabinese---primary.py
+inputModule27:
+  class: File
+  path: python/output-cases.py
